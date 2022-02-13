@@ -16,6 +16,9 @@
   position: fixed;
   width: 100%;
 }
+.row{
+  padding-top: 15%;
+}
 img{
   height: 350px;
   width: 350px;
